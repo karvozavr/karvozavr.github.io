@@ -65,7 +65,7 @@ To remove image or container you may use:
 - `docker rm [id]` - remove container.
 - `docker rmi [image_id]` - remove image.
 
-To interact with your container withought `SSH` configured, you may use `docker exec -it` to run bash command inside the container in interactive mode:\
+To interact with your container withought `SSH` configured, you may use `docker exec -it` to run bash command inside the container in interactive mode: \
 `docker exec -it [container_name] /bin/bash` 
 
 
