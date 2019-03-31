@@ -5,7 +5,7 @@ Docker is a powerful tool for creating containers (lightweight virtual machines,
 
 ## Basics
 
-Docker image - is a ...
+Docker image - is configured image of the container.
 Docker container is an instance of Docker image.
 
 ### Creating an image
