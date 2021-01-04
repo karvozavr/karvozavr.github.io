@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 name: Humane Software Development
 copyright_name: Dmitrii Abramov
-title: Dmitrii Abramov — software developer
+title: Dmitrii Abramov — Humane Software Development
 email: dmitrii.abramov@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   The blog about Software Development and about people in Software Development.
