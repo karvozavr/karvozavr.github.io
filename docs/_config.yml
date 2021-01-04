@@ -23,7 +23,7 @@ baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: karvozavr
 github_username:  karvozavr
-google_analytics: 'G-87YF2TFG5G'
+google_analytics: 'UA-186441238-1'
 disqus: 'dmitrii-abramov'
 logo: 'assets/images/logo.png'
 include: ["_pages"]
