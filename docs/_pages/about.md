@@ -32,3 +32,4 @@ I am passionate about software architecture, software development process, writi
 
 💼 Here you can find my CV:
 - [Dmitrii Abramov CV.pdf](https://karvozavr.github.io/CV_Dmitrii_Abramov.pdf)
+- [github.com/karvozavr](https://github.com/karvozavr)
