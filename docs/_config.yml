@@ -1,0 +1,67 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+name: Dmitrii Abramov
+title: Dmitrii Abramov — software developer
+email: dmitrii.abramov@outlook.com
+description: >- # this means to ignore newlines until "baseurl:"
+  The blog about Software Development and about people in Software Development.
+baseurl: '/blog' # the subpath of your site, e.g. /blog
+url: '' # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: karvozavr
+github_username:  karvozavr
+google_analytics: 'G-87YF2TFG5G'
+disqus: 'dmitrii-abramov'
+logo: 'assets/images/logo.png'
+include: ["_pages"]
+permalink: /:title/
+
+# Build settings
+markdown: kramdown
+remote_theme: wowthemesnet/mediumish-theme-jekyll
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
+authors:
+  dmitrii-abramov:
+    name: Dmitrii Abramov
+    display_name: Dmitrii Abramov
+    avatar: assets/images/dmitrii-abramov.png
+    email: dmitrii.abramov@outlook.com
+    web: https://karvozavr.github.io
+    twitter: https://twitter.com/karvozavr
+    description: "Passionate Software Developer"
+
+# pagination
+paginate: 6
+paginate_path: /page:num/
+
+adsense: "disabled"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - changelog.md
+  - LICENSE.txt
+  - README.md
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
