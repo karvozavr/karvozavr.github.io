@@ -7,8 +7,7 @@ categories: clean-arhitecture software-development
 image: assets/images/posts/clean-architecture-diagram.jpg
 ---
 
-Big Ball of Mud and spagetti-code "*architectural approach*" increases software maintanance and development costs exponentially. 
-
+Big Ball of Mud and spagetti-code "*architectural approach*" increases software maintanance and development costs exponentially. <br/> <br/>
 There is a salvation — **Clean Architecture** — a wonderful approach to prepare the software to requirements changes, so it would be easy to change and joy to maintain and extend.  
 
 ## Domain 
