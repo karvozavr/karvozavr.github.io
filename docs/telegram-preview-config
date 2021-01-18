@@ -30,4 +30,6 @@ title:    $body//h1[1]
 # remove <noscript> text
 @remove: //noscript
 
-@remove: $body//article//div[has-class("post-top-meta")]
+# @remove: $body//div[has-class("mainheading")]
+@remove: $body//div/div[has-class("col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0")]
+@remove: $body//a[has-class("btn follow")]
