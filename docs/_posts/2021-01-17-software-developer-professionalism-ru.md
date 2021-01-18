@@ -4,7 +4,7 @@ title:  "Карьера и счастье разработчика"
 date:   2021-01-17 13:00:00 +0300
 author: dmitrii-abramov
 categories: software-architecture software-development ru
-image: /assets/images/posts/results_graph_eng.png
+image: assets/images/posts/happiness.jpg
 ---
 
 Зачастую разработчика нанимают для того, чтобы он как профессионал решал проблемы бизнеса. Но иногда ко мнению разработчиков по вопросам, в которых они более компетентны, чем представители бизнеса, не прислушиваются. О том, *что* с этим можно сделать и *зачем* это нужно разработчику, я и хотел бы поговорить.
