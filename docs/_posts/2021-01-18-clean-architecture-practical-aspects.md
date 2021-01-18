@@ -138,4 +138,4 @@ And transforming the request to the external system that the use case logic crea
 ___
 
 ## Sources
-- Robert C Martin - Clean Architecture]]
+- Robert C Martin - Clean Architecture
