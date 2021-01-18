@@ -3,7 +3,7 @@ layout: post
 title:  "Карьера и счастье разработчика"
 date:   2021-01-17 13:00:00 +0300
 author: dmitrii-abramov
-categories: software-architecture software-development ru
+categories: clean-architecture software-development ru
 image: assets/images/posts/happiness.jpg
 ---
 
