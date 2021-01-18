@@ -10,11 +10,17 @@ image: assets/images/posts/clean-architecture-diagram.jpg
 Big Ball of Mud and spagetti-code "*architectural approaches*" increase software maintanance and development costs exponentially.
 There is a salvation — **Clean Architecture** — a wonderful approach to prepare the software to requirements changes, so it would be easy to change and joy to maintain and extend.  
 
+> I recommend you to read Clean Architecture book by Robert C. Martin first, but you are welcome to read the article anyway.
+
 ## Domain 
 
-Entities, no frameworks, pure business information.
+The domain layer is the core of the software. It contains all the essential buisness rules that exist even withought this software. 
+
+Only pure business entities, pure business information, no frameworks, minimum libraries, all implementations that require some external system (saving data, sending data, receiveing data, displaying data on UI) shoud use abstractions.
 
 ## Use Cases
+
+Use cases contain the buisness logic that is the reason for the very existence of this software.
 
 A lot of effort comes to create a proper boundary for the use case.
 
