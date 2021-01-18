@@ -7,7 +7,7 @@ title: Dmitrii Abramov — Humane Software Development
 email: dmitrii.abramov@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   The blog about Software Development and about people in Software Development.
-baseurl: '' # the subpath of your site, e.g. /blog
+baseurl: 'https://karvozavr.github.io' # the subpath of your site, e.g. /blog
 url: 'https://karvozavr.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: karvozavr
 github_username:  karvozavr
